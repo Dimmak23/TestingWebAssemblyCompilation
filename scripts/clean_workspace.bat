@@ -1,0 +1,1 @@
+rmdir /s build && rmdir /s third_party

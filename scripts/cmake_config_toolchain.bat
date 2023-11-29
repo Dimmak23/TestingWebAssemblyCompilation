@@ -1,0 +1,1 @@
+cmake -S . -B ./build -G Ninja -DCMAKE_TOOLCHAIN_FILE="third_party\emsdk\upstream\emscripten\cmake\Modules\Platform\Emscripten.cmake"
